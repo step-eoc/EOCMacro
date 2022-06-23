@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32505.173
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EOCMacro", "EOCMacro\EOCMacro.csproj", "{9B1173BA-DD8F-4092-89EC-9BA962A473DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EOCMacro", "EOCMacro\EOCMacro.csproj", "{9B1173BA-DD8F-4092-89EC-9BA962A473DF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D5EBA4E0-FF73-44A8-942C-F711DD2726DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
